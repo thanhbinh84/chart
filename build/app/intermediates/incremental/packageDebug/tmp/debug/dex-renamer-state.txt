@@ -1,0 +1,4 @@
+#Mon Oct 11 14:54:51 ICT 2021
+base.0=/Volumes/Data/Dev/Challenge/source/chart/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
